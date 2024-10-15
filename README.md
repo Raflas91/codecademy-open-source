@@ -1,3 +1,3 @@
 # Codecademy-open-source 
 
-This is my sampe open source repository! Yeah!
+This is my sample open source repository! Yeah!
